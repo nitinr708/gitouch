@@ -1,4 +1,6 @@
-gitouch
+gitouch (A Learning Project)
 =======
 
-files mgmt while learning about git
+
+A new repo to get familiar with github and it's abilities to manage files 
+in a public repository.
